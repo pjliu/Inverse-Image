@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PixelAlgorithms()
+comment1.params=picname
+comment1.target=java.util.ArrayList\ gather(java.lang.String)
+comment2.params=one\ two
+comment2.target=boolean\ check(Pixel,\ Pixel)
+comment3.params=thres
+comment3.target=group(java.util.ArrayList)
+comment4.params=group
+comment4.target=Pixel\ findMidpoint(java.util.ArrayList)
+comment5.params=one\ two
+comment5.target=int\ MDis(Pixel,\ Pixel)
+comment6.params=A
+comment6.target=double\ run(int)
+comment7.params=Rval\ Rpl
+comment7.target=double\ Round(double,\ int)
+comment8.params=distance\ pixelDistance
+comment8.target=double\ calcViewAngle(double,\ int)
+numComments=9
